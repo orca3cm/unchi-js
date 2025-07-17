@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>うんちで学ぶJavaScript</title>
+	<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+	<!-- サイトヘッダー -->
+	<header>
+		<h1>💩うんちで学ぶJavaScript🐬</h1>
+		<p>かわいくポップに、オルカとJSのお勉強！</p>
+	</header>
+
+	<!-- メインビジュアル -->
+	<section class="latest">
+		<h2>最新の配信まとめ</h2>
+		<article>
+			<img src=images/ep3-thumb.png" alt="第３回サムネ" />
+			<h3>第３回 「変数を使ってみよう！」</h3>
+			<p>変数ってなに？　letで保存、うんちを記録、好きな言葉を保管してみよう！</p>
+			<a href="episodes/ep3.html">▶　詳しく見る</a>
+		</article>
+	</section>
+
+	<!-- 配信リスト -->
+
+	<section class="episode-list">
+		<h2>配信まとめリスト</h2>
+		<ul>
+			<li><a href="episodes/ep3.html">第３回 「変数を使ってみよう！」</a></li>
+			<li><a href="episodes/ep3.html">第	２回 「うんちが出るボタン」</a></li>
+			<li><a href="episodes/ep3.html">第１回 「うんちを１００回出してみた」</a></li>
+		</ul>
+	</section>
+
+	<!-- フッター -->
+	<footer>
+		<p>© 2025 うんちで学ぶJavaScript　｜　配信：<a href="https://twitch.tv/orca043" target="_blank">twitch.tv/orca043</a></p>
+	</footer>
+
+</body>
+</html>
