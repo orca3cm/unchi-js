@@ -10,7 +10,7 @@
 
 	<!-- サイトヘッダー -->
 	<header>
-		<h1>うんちで学ぶJavaScript</h1>
+		<h1>💩うんちで学ぶJavaScript🐬</h1>
 		<p>かわいくポップに、オルカとJSのお勉強！</p>
 	</header>
 
